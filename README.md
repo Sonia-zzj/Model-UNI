@@ -24,5 +24,5 @@ J'ai choisi uniquement un petit ensemble de données en fonction de la puissance
 Nous avons validé les performances de l'ensemble du modèle UNI sur l'ensemble de données TCGA. L'extraction de caractéristiques sous différentes méthodes d'évaluation a donné de bons résultats, prouvant le rôle puissant du modèle UNI dans la détection des maladies des tissus cellulaires.
 
 ### Références
-#### Paper (https://www.nature.com/articles/s41591-024-02857-3)
-#### Code (https://github.com/mahmoodlab/UNI)
+#### [Paper (https://www.nature.com/articles/s41591-024-02857-3)]
+#### [Code (https://github.com/mahmoodlab/UNI)]
